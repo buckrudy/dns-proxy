@@ -2,7 +2,7 @@
  * A simple DNS proxy
  *
  * Author: leegoogol
- * Email: buckrudy@gmail.com
+ * Email: buckgugle@gmail.com
  */
 #include <stdio.h>
 #include <stdlib.h>
